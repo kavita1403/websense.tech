@@ -9,12 +9,16 @@
 }
 #header-item{
     position: relative;
-    height: 20vh;
-}
-
-#header-item h1,p{
-    position: relative;
     top: 20%;
     margin-left: 20%;
+    height: 35vh;
 
+}
+red{
+    color: #3B2CE0;
+    font-weight: bold;
+}
+footer{
+    text-align: center;
+    height: 40px;
 }
