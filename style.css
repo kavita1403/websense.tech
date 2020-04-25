@@ -1,0 +1,20 @@
+
+#pic1{
+    position: relative;
+    height: 60vh;
+    background-image: url(./remote.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+}
+#header-item{
+    position: relative;
+    height: 20vh;
+}
+
+#header-item h1,p{
+    position: relative;
+    top: 20%;
+    margin-left: 20%;
+
+}
