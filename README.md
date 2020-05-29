@@ -1,2 +1,2 @@
 # websense
-A tech blog
+A tech blog[link](https://websense.tech)
